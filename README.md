@@ -11,7 +11,7 @@
 If you love this project and want to see more, consider supporting the channel:
 
 - Give this repository a ⭐️ on GitHub.
-- **[Buy Me a Coffee](https://www.buymeacoffee.com/techwithemmaofficial)** to help fund more educational content.
+- **[Join Channel Membership on Youtube](https://www.youtube.com/channel/UCKF3twEFIvTQZxbY13D-udQ/join)** to help fund more educational content.
 - Like, share, and subscribe to the channel for more tutorials and updates!
 
 ---
