@@ -28,7 +28,6 @@ Welcome to **AutoHunt**, a dynamic and scalable car marketplace built with **Nex
 - 🚗 **List & Manage Car Listings** (New & Used Cars)
 - 🛠️ **Reusable Filters** (Price, Brand, Model, Year, Fuel Type, Condition)
 - 🏢 **Seller's Shop**
-- 🔄 **Real-Time Chat** (Powered by SendBird)
 - 🎮 **Image Gallery with Thumbnails**
 - 💎 **Price Range Selector**
 - 💡 **Custom Form Generator** for Listing Creation
