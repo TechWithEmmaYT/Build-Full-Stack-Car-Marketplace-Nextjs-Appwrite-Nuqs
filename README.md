@@ -24,7 +24,7 @@ Welcome to **AutoHunt**, a dynamic and scalable car marketplace built with **Nex
 
 ## 🌟 Key Features
 
-- 🔒 **Authentication** (Appwrite Email & OAuth)
+- 🔒 **Authentication** (Appwrite Register & Login)
 - 🚗 **List & Manage Car Listings** (New & Used Cars)
 - 🛠️ **Reusable Filters** (Price, Brand, Model, Year, Fuel Type, Condition)
 - 🏢 **Seller's Shop**
