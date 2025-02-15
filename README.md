@@ -105,7 +105,7 @@ Deploy your app using Vercel for optimal performance.
 
 ## 🎨 Custom Theme Styles
 
-[Jump to Custom Theme Styles](#️-custome-theme-styles)
+[Jump to Custom Theme Styles](#custom-theme-styles)
 
 <details>
   <summary>Click to toggle Custom Theme Styles</summary>
@@ -222,7 +222,7 @@ body {
 
 ## 🗃️ Car Options Constant
 
-[Jump to Car Options](#️-car-options-constant)
+[Jump to Car Options](#️car-options-constant)
 
 <details>
   <summary>Click to toggle Car Options</summary>
@@ -398,7 +398,7 @@ export const CAR_PRICE_RANGE_OPTIONS = [
 
 ## 🏷️ Listing Fields Object
 
-[Jump to Listing Fields](#️-listing-fields-object)
+[Jump to Listing Fields](#️listing-fields-object)
 
 <details>
   <summary>Click to toggle Listing Fields</summary>
